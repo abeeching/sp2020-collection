@@ -12,6 +12,9 @@ This is a compilation of C++ assignments and labs I did in the Spring 2020 semes
 ## How to Use:
 These are not meant to be *used*. This is just a showcase of stuff I did during this semester. Descriptions of work posted to this repo will be provded below as I add them.
 
+### lions-tree-snakes:
+A demonstration of how classes and objects work in C++ and in OOP in general.
+
 ## Reflections:
 I hardly used C++ after it was introduced to me in this course. Nothing against the language or anything, but I struggled so much trying to learn advanced concepts with Java in the next programming course that I ended up sticking to it. It was the language I was most familiar with after having spent many evenings essentially learning by brute-force. (On that note, Python's the language I'd say I'm second-most familiar with, since I had to use it pretty extensively towards the end of my time at the university. It was a lot easier to digest!)
 
